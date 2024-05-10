@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on data scientist/data analysis roles
 - 📫 How to reach me : rejeeshsathidev@gmail.com
 - 💼 Portfolio Page - https://rejeeshravindran.github.io/Rejeesh_Portfolio/
-- 🧩 Experienced Tools : SQL , Python , PowerBI , Tableau , Microsoft Excel
+- 🧩 Tools : SQL , Python , PowerBI , Tableau , Microsoft Excel
 
 
 <!---
